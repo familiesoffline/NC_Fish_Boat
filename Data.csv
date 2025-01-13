@@ -1,0 +1,515 @@
+long,lat,Name,type,status,water,Address
+-75.67714311,35.89814463,BOWSERTOWN ROAD,Public boat access,OPEN,CROATAN SOUND,No address listed. Look it up by surroundings. 
+-75.68655934,36.03560434,AVALON BEACH,Public boat access,OPEN,KITTY HAWK BAY,No address listed. Look it up by surroundings. 
+-75.63762811,35.89385062,WASHINGTON BAUM BRIDGE,Public boat access,OPEN,ROANOKE SOUND,No address listed. Look it up by surroundings. 
+-75.81471459,35.92822913,MASHOES,Public boat access,OPEN,EAST LAKE,No address listed. Look it up by surroundings. 
+-75.73696571,35.68939543,STUMPY POINT,Public boat access,OPEN,PAMLICO SOUND,No address listed. Look it up by surroundings. 
+-76.62527207,35.53902087,BELHAVEN,Public boat access,OPEN,PANTEGO CREEK,No address listed. Look it up by surroundings. 
+-77.20262401,35.9472893,HAMILTON,Public boat access,OPEN,ROANOKE RIVER,No address listed. Look it up by surroundings. 
+-77.49024233,35.69517065,FALKLAND,Public boat access,OPEN,TAR RIVER,No address listed. Look it up by surroundings. 
+-77.3834819,36.20841225,EDWARDS FERRY,Public boat access,OPEN,ROANOKE RIVER,No address listed. Look it up by surroundings. 
+-77.64431122,36.48263813,GASTON,Public boat access,OPEN,ROANOKE RIVER,No address listed. Look it up by surroundings. 
+-77.94711214,36.4868075,SALMONS LANDING,Public boat access,OPEN,LAKE GASTON,No address listed. Look it up by surroundings. 
+-77.82723055,36.48462705,SUMMIT,Public boat access,OPEN,LAKE GASTON,No address listed. Look it up by surroundings. 
+-77.59095259,36.42743479,WELDON,Public boat access,OPEN,ROANOKE RIVER,No address listed. Look it up by surroundings. 
+-78.13059896,36.54269675,HAWTREE CREEK,Public boat access,OPEN,LAKE GASTON,No address listed. Look it up by surroundings. 
+-77.7815241,36.48535545,THELMA,Public boat access,OPEN,ROANOKE RAPIDS LAKE,No address listed. Look it up by surroundings. 
+-78.77370081,36.05802546,HICKORY HILL,Public boat access,OPEN,FALLS LAKE,No address listed. Look it up by surroundings. 
+-79.87513675,34.987398,BLEWETTS GRAVE,Public boat access,OPEN,PEE DEE RIVER,No address listed. Look it up by surroundings. 
+-80.23004059,35.59649513,BRINGLE FERRY,Public boat access,OPEN,TUCKERTOWN LAKE,No address listed. Look it up by surroundings. 
+-80.10377827,35.50375765,CIRCLE DRIVE,Public boat access,OPEN,BADIN LAKE,No address listed. Look it up by surroundings. 
+-80.48472402,35.83824451,CONCORD CHURCH,Public boat access,OPEN,YADKIN RIVER,No address listed. Look it up by surroundings. 
+-80.58448403,35.82275813,COOLEEMEE,Public boat access,OPEN,SOUTH YADKIN RIVER,No address listed. Look it up by surroundings. 
+-79.87650022,35.05484357,GRASSY ISLAND,Public boat access,OPEN,BLEWETT FALLS LAKE,No address listed. Look it up by surroundings. 
+-80.09047133,35.48480128,LAKEMONT,Public boat access,OPEN,BADIN LAKE,No address listed. Look it up by surroundings. 
+-80.95230241,35.56083005,HAGER CREEK,Public boat access,OPEN,LAKE NORMAN,No address listed. Look it up by surroundings. 
+-80.95663546,35.48243913,BEATTIES FORD,Public boat access,OPEN,LAKE NORMAN,No address listed. Look it up by surroundings. 
+-80.98031292,35.53868374,LITTLE CREEK,Public boat access,OPEN,LAKE NORMAN,No address listed. Look it up by surroundings. 
+-80.98350045,35.68020167,LONG ISLAND,Public boat access,OPEN,LAKE NORMAN,No address listed. Look it up by surroundings. 
+-80.93323457,35.36970907,NECK ROAD,Public boat access,OPEN,MOUNTAIN ISLAND LAKE,No address listed. Look it up by surroundings. 
+-80.92897576,35.60349071,MCCRARY CREEK,Public boat access,OPEN,LAKE NORMAN,No address listed. Look it up by surroundings. 
+-80.97294382,35.35340224,RIVERBEND,Public boat access,OPEN,MOUNTAIN ISLAND LAKE,No address listed. Look it up by surroundings. 
+-81.01220399,35.15571402,SOUTH POINT,Public boat access,OPEN,LAKE WYLIE,No address listed. Look it up by surroundings. 
+-81.31323219,35.80528879,WITTENBURG,Public boat access,OPEN,LAKE HICKORY,No address listed. Look it up by surroundings. 
+-81.48473448,35.78402827,CONLEY CREEK,Public boat access,OPEN,RHODHISS LAKE,No address listed. Look it up by surroundings. 
+-81.86903914,35.79308721,LINVILLE RIVER,Public boat access,OPEN,LAKE JAMES,No address listed. Look it up by surroundings. 
+-81.23017602,35.81492653,DUSTY RIDGE,Public boat access,OPEN,LAKE HICKORY,No address listed. Look it up by surroundings. 
+-81.37467592,35.79330529,GUNPOWDER,Public boat access,OPEN,LAKE HICKORY,No address listed. Look it up by surroundings. 
+-81.3496388,35.79543419,LOVELADY,Public boat access,OPEN,LAKE HICKORY,No address listed. Look it up by surroundings. 
+-81.52442822,35.78194784,CASTLE BRIDGE,Public boat access,OPEN,RHODHISS LAKE,No address listed. Look it up by surroundings. 
+-81.67679037,35.79318783,JOHNS RIVER,Public boat access,OPEN,JOHNS RIVER,No address listed. Look it up by surroundings. 
+-81.44242424,35.77154602,RHODHISS,Public boat access,OPEN,RHODHISS LAKE,No address listed. Look it up by surroundings. 
+-81.96692896,35.74819579,BLACK BEAR,Public boat access,OPEN,LAKE JAMES,No address listed. Look it up by surroundings. 
+-84.1800895,35.14680721,APALACHIA,Public boat access,OPEN,APALACHIA LAKE,No address listed. Look it up by surroundings. 
+-83.90589367,35.37210714,AVEY CREEK,Public boat access,OPEN,LAKE SANTEETLAH,No address listed. Look it up by surroundings. 
+-83.08947339,35.24542913,CEDAR CLIFF,Public boat access,OPEN,CEDAR CLIFF LAKE,No address listed. Look it up by surroundings. 
+-83.68628551,35.17910084,CHOGA ROAD,Public boat access,OPEN,NANTAHALA LAKE,No address listed. Look it up by surroundings. 
+-83.55127836,35.43889313,FLAT BRANCH,Public boat access,OPEN,FONTANA LAKE,No address listed. Look it up by surroundings. 
+-84.12017723,35.12432585,GRAPE CREEK,Public boat access,OPEN,HIWASSEE LAKE,No address listed. Look it up by surroundings. 
+-84.0926138,35.09737338,HANGING DOG,Public boat access,OPEN,HIWASSEE LAKE,No address listed. Look it up by surroundings. 
+-83.76886619,35.01073484,JACKRABBIT,Public boat access,OPEN,CHATUGE LAKE,No address listed. Look it up by surroundings. 
+-84.09363778,35.09096451,RAMSEY BLUFF,Public boat access,OPEN,HIWASSEE LAKE,No address listed. Look it up by surroundings. 
+-83.82819414,35.33513997,RANGER STATION,Public boat access,OPEN,LAKE SANTEETLAH,No address listed. Look it up by surroundings. 
+-83.65684869,35.18176586,ROCKY BRANCH,Public boat access,OPEN,NANTAHALA LAKE,No address listed. Look it up by surroundings. 
+-83.58104409,35.4055484,TSALI,Public boat access,OPEN,FONTANA LAKE,No address listed. Look it up by surroundings. 
+-82.99799894,35.22386522,WOLF CREEK,Public boat access,OPEN,WOLF CREEK LAKE,No address listed. Look it up by surroundings. 
+-83.86951276,35.37410812,CHEOAH POINT,Public boat access,OPEN,LAKE SANTEETLAH,No address listed. Look it up by surroundings. 
+-83.74785897,35.43782254,CABLE COVE,Public boat access,OPEN,FONTANA LAKE,No address listed. Look it up by surroundings. 
+-83.17282663,35.19488885,PINE CREEK,Public boat access,OPEN,GLENVILLE LAKE/THORPE LAKE,No address listed. Look it up by surroundings. 
+-83.76707012,35.0271904,LEDFORDS CHAPEL,Public boat access,OPEN,CHATUGE LAKE,No address listed. Look it up by surroundings. 
+-83.48661837,35.43050583,OLD 288,Public boat access,OPEN,TUCKASEGEE RIVER,No address listed. Look it up by surroundings. 
+-83.14937259,35.19444418,POWERHOUSE,Public boat access,OPEN,GLENVILLE LAKE/THORPE LAKE,No address listed. Look it up by surroundings. 
+-75.94500797,36.3590634,COINJOCK,Public boat access,OPEN,INTRACOASTAL WATERWAY,No address listed. Look it up by surroundings. 
+-76.27831471,35.91642872,COLUMBIA,Public boat access,OPEN,SCUPPERNONG RIVER,No address listed. Look it up by surroundings. 
+-76.70428757,35.89617866,CONABY CREEK,Public boat access,OPEN,CONABY CREEK,No address listed. Look it up by surroundings. 
+-76.3842651,35.8619485,CRESWELL,Public boat access,OPEN,SCUPPERNONG RIVER,No address listed. Look it up by surroundings. 
+-76.68387879,36.0549475,EDENHOUSE BRIDGE,Public boat access,OPEN,CHOWAN RIVER,No address listed. Look it up by surroundings. 
+-76.56472578,36.01086697,MIDWAY DRIVE,Public boat access,OPEN,ALBERMARLE SOUND,No address listed. Look it up by surroundings. 
+-75.98846697,35.51374623,ENGELHARD,Public boat access,OPEN,PAMLICO SOUND,No address listed. Look it up by surroundings. 
+-76.1084858,35.80451137,FRYING PAN,Public boat access,OPEN,ALLIGATOR RIVER,No address listed. Look it up by surroundings. 
+-76.10956989,35.69711893,GUM NECK LANDING,Public boat access,OPEN,ALLIGATOR RIVER,No address listed. Look it up by surroundings. 
+-76.27597675,36.21929614,HALLS CREEK,Public boat access,OPEN,HALLS CREEK,No address listed. Look it up by surroundings. 
+-76.63154982,35.26953447,SMITHS CREEK,Public boat access,OPEN,SMITH CREEK,No address listed. Look it up by surroundings. 
+-76.7796765,35.30450836,AURORA,Public boat access,OPEN,SOUTH CREEK,No address listed. Look it up by surroundings. 
+-77.04896197,35.04948386,BRICES CREEK,Public boat access,OPEN,BRICE CREEK,No address listed. Look it up by surroundings. 
+-77.04771532,35.14468578,BRIDGETON,Public boat access,OPEN,NEUSE RIVER,No address listed. Look it up by surroundings. 
+-76.74908668,34.99766015,DAWSON CREEK,Public boat access,OPEN,DAWSON CREEK,No address listed. Look it up by surroundings. 
+-76.93390499,35.10671363,LEES LANDING,Public boat access,OPEN,UPPER BROAD CREEK,No address listed. Look it up by surroundings. 
+-76.70049257,35.02563997,ORIENTAL,Public boat access,OPEN,GREENS CREEK,No address listed. Look it up by surroundings. 
+-77.21817467,35.00964508,POLLOCKSVILLE,Public boat access,OPEN,TRENT RIVER,No address listed. Look it up by surroundings. 
+-77.83273162,34.83172149,CHINQUAPIN,Public boat access,OPEN,NORTHEAST CAPE FEAR RIVER,No address listed. Look it up by surroundings. 
+-76.63196738,34.70975803,BEAUFORT,Public boat access,OPEN,TAYLOR CREEK,No address listed. Look it up by surroundings. 
+-77.10890394,34.67786742,GORDON S. MYERS AT CEDAR POINT,Public boat access,OPEN,INTRACOASTAL WATERWAY,No address listed. Look it up by surroundings. 
+-76.75109825,34.72238145,MOREHEAD CITY,Public boat access,OPEN,INTRACOASTAL WATERWAY,No address listed. Look it up by surroundings. 
+-76.8595708,34.77803612,NEWPORT,Public boat access,OPEN,NEWPORT RIVER,No address listed. Look it up by surroundings. 
+-76.40003051,34.89223879,SALTERS CREEK,Public boat access,OPEN,SALTERS CREEK,No address listed. Look it up by surroundings. 
+-76.57515847,34.72194849,STRAITS LANDING,Public boat access,OPEN,NORTH RIVER,No address listed. Look it up by surroundings. 
+-77.16550077,34.65331931,SHELL ROCK LANDING,Public boat access,OPEN,INTRACOASTAL WATERWAY,No address listed. Look it up by surroundings. 
+-76.92361955,34.89136006,SLOCUM CREEK,Public boat access,OPEN,SOUTHWEST PRONG SLOCUM CREEK,No address listed. Look it up by surroundings. 
+-76.45093658,34.81883789,OYSTER CREEK,Public boat access,OPEN,CORE SOUND,No address listed. Look it up by surroundings. 
+-77.21139599,34.64528733,WILLIS LANDING,Public boat access,OPEN,BEAR CREEK,No address listed. Look it up by surroundings. 
+-76.31438856,35.01718931,CEDAR ISLAND,Public boat access,OPEN,PAMLICO SOUND,No address listed. Look it up by surroundings. 
+-76.85314657,34.91746179,HANCOCK CREEK,Public boat access,OPEN,HANCOCK CREEK,No address listed. Look it up by surroundings. 
+-77.18569571,34.81973742,HAYWOOD LANDING,Public boat access,OPEN,WHITE OAK RIVER,No address listed. Look it up by surroundings. 
+-77.34155514,35.06246264,TRENTON,Public boat access,OPEN,TRENT RIVER,No address listed. Look it up by surroundings. 
+-81.08305586,35.7636459,SHARON,Public boat access,OPEN,LOOKOUT SHOALS LAKE,No address listed. Look it up by surroundings. 
+-81.09630473,35.75771658,LOOKOUT SHOALS,Public boat access,OPEN,LOOKOUT SHOALS LAKE,No address listed. Look it up by surroundings. 
+-81.1960553,35.81944754,OXFORD,Public boat access,OPEN,LAKE HICKORY,No address listed. Look it up by surroundings. 
+-83.57765705,35.39489766,LEMMONS BRANCH,Public boat access,OPEN,FONTANA LAKE,No address listed. Look it up by surroundings. 
+-83.06408724,35.24400637,BEAR CREEK,Public boat access,OPEN,BEAR CREEK LAKE,No address listed. Look it up by surroundings. 
+-77.08366945,35.19243028,COOL SPRINGS,Public boat access,OPEN,SWIFT CREEK,No address listed. Look it up by surroundings. 
+-76.20894904,35.42128661,HYDELAND CANAL,Public boat access,OPEN,PAMLICO SOUND,No address listed. Look it up by surroundings. 
+-76.13311365,36.15017324,BIG FLATTY,Public boat access,OPEN,BIG FLATTY CREEK,No address listed. Look it up by surroundings. 
+-75.9101564,36.50793984,BRUMLEY ROAD,Public boat access,OPEN,CURRITUCK SOUND,No address listed. Look it up by surroundings. 
+-76.67095487,36.2680097,CANNONS FERRY,Public boat access,OPEN,CHOWAN RIVER,No address listed. Look it up by surroundings. 
+-80.93837457,35.60676754,PINNACLE,Public boat access,OPEN,LAKE NORMAN,No address listed. Look it up by surroundings. 
+-76.3196549,36.13375882,PERQUIMANS,Public boat access,OPEN,PERQUIMANS RIVER,No address listed. Look it up by surroundings. 
+-76.72060531,35.9126209,NC HWY 45 BRIDGE,Public boat access,OPEN,ROANOKE RIVER,No address listed. Look it up by surroundings. 
+-75.88373961,36.28718786,POPLAR BRANCH,Public boat access,OPEN,CURRITUCK SOUND,No address listed. Look it up by surroundings. 
+-76.07675802,36.4684663,POYNERS ROAD,Public boat access,OPEN,TULL CREEK,No address listed. Look it up by surroundings. 
+-76.81713448,35.91117741,SANS SOUCI FERRY,Public boat access,OPEN,CASHIE RIVER,No address listed. Look it up by surroundings. 
+-76.17964976,36.3317348,SAWYERS CREEK,Public boat access,OPEN,PASQUOTANK RIVER,No address listed. Look it up by surroundings. 
+-76.42194569,35.46239794,ROSE BAY,Public boat access,OPEN,PAMLICO SOUND,No address listed. Look it up by surroundings. 
+-78.1369115,35.35666411,COXS FERRY,Public boat access,OPEN,NEUSE RIVER,No address listed. Look it up by surroundings. 
+-78.02361687,35.34823086,GOLDSBORO,Public boat access,OPEN,NEUSE RIVER,No address listed. Look it up by surroundings. 
+-78.93897982,35.60854396,HOLLEMANS CROSSING,Public boat access,OPEN,SHEARON HARRIS RESERVOIR,No address listed. Look it up by surroundings. 
+-78.19798077,35.37540062,RICHARDSONS BRIDGE,Public boat access,OPEN,NEUSE RIVER,No address listed. Look it up by surroundings. 
+-77.84604194,35.2287189,SEVEN SPRINGS,Public boat access,OPEN,NEUSE RIVER,No address listed. Look it up by surroundings. 
+-77.94505673,35.31378922,PRICES LANDING,Public boat access,OPEN,NEUSE RIVER,No address listed. Look it up by surroundings. 
+-78.06727492,35.36712481,STEVENS MILL,Public boat access,OPEN,NEUSE RIVER,No address listed. Look it up by surroundings. 
+-78.85062183,34.99667459,FAYETTEVILLE,Public boat access,OPEN,CAPE FEAR RIVER,No address listed. Look it up by surroundings. 
+-78.77375061,35.39751618,LILLINGTON,Public boat access,OPEN,CAPE FEAR RIVER,No address listed. Look it up by surroundings. 
+-79.34839318,34.90102872,WAGRAM,Public boat access,OPEN,LUMBER RIVER,No address listed. Look it up by surroundings. 
+-79.04031526,35.03271821,LAKE RIM,Public boat access,OPEN,LAKE RIM,No address listed. Look it up by surroundings. 
+-79.02522474,35.55047746,AVENTS FERRY BRIDGE,Public boat access,OPEN,CAPE FEAR RIVER,No address listed. Look it up by surroundings. 
+-78.97593862,35.5732117,CROSS POINT LANDING,Public boat access,OPEN,SHEARON HARRIS RESERVOIR,No address listed. Look it up by surroundings. 
+-77.81122861,34.21839166,WRIGHTSVILLE BEACH,Public boat access,OPEN,INTRACOASTAL WATERWAY,No address listed. Look it up by surroundings. 
+-77.54996639,34.42867269,SURF CITY,Public boat access,OPEN,INTRACOASTAL WATERWAY,No address listed. Look it up by surroundings. 
+-77.89662248,34.3635251,CASTLE HAYNE,Public boat access,OPEN,NORTHEAST CAPE FEAR RIVER,No address listed. Look it up by surroundings. 
+-77.94159729,33.95885162,FEDERAL POINT,Public boat access,OPEN,BUZZARD BAY,No address listed. Look it up by surroundings. 
+-77.31405705,35.59750739,GREENVILLE,Public boat access,OPEN,TAR RIVER,No address listed. Look it up by surroundings. 
+-77.43423386,35.36860572,GRIFTON,Public boat access,OPEN,CONTENTNEA CREEK,No address listed. Look it up by surroundings. 
+-77.81631115,34.54860036,HOLLY SHELTER,Public boat access,OPEN,NORTHEAST CAPE FEAR RIVER,No address listed. Look it up by surroundings. 
+-77.85888814,34.93757017,KENANSVILLE,Public boat access,OPEN,NORTHEAST CAPE FEAR RIVER,No address listed. Look it up by surroundings. 
+-77.82180466,34.58652845,SAWPIT LANDING,Public boat access,OPEN,NORTHEAST CAPE FEAR RIVER,No address listed. Look it up by surroundings. 
+-77.80315976,34.61241442,SHELTER CREEK,Public boat access,OPEN,HOLLY SHELTER CREEK,No address listed. Look it up by surroundings. 
+-77.66761799,35.45704357,SNOW HILL,Public boat access,OPEN,CONTENTNEA CREEK,No address listed. Look it up by surroundings. 
+-77.89166836,34.05709332,SNOWS CUT,Public boat access,OPEN,INTRACOASTAL WATERWAY,No address listed. Look it up by surroundings. 
+-77.08611915,35.56266738,MASONS LANDING,Public boat access,OPEN,TRANTERS CREEK,No address listed. Look it up by surroundings. 
+-77.9936248,34.30104025,SUTTON LAKE,Public boat access,OPEN,SUTTON LAKE,No address listed. Look it up by surroundings. 
+-77.46524208,34.49407804,TURKEY CREEK,Public boat access,OPEN,INTRACOASTAL WATERWAY,No address listed. Look it up by surroundings. 
+-77.42785339,34.49727246,WEST ONSLOW BEACH,Public boat access,OPEN,INTRACOASTAL WATERWAY,No address listed. Look it up by surroundings. 
+-77.87788085,34.78334907,WAYNES LANDING,Public boat access,OPEN,NORTHEAST CAPE FEAR RIVER,No address listed. Look it up by surroundings. 
+-77.14854239,35.21901239,SPRING GARDEN,Public boat access,OPEN,NEUSE RIVER,No address listed. Look it up by surroundings. 
+-78.3687087,34.47354682,ELWELLS FERRY,Public boat access,OPEN,CAPE FEAR RIVER,No address listed. Look it up by surroundings. 
+-78.31312292,34.64104682,ENNIS BRIDGE,Public boat access,OPEN,SOUTH RIVER,No address listed. Look it up by surroundings. 
+-78.98385428,34.59161967,HIGH HILL,Public boat access,OPEN,LUMBER RIVER,No address listed. Look it up by surroundings. 
+-78.26749257,33.91625683,HOLDEN BEACH,Public boat access,OPEN,INTRACOASTAL WATERWAY,No address listed. Look it up by surroundings. 
+-78.18080914,34.46581992,HUNTS BLUFF,Public boat access,OPEN,BLACK RIVER,No address listed. Look it up by surroundings. 
+-78.24266318,34.60497031,IVANHOE,Public boat access,OPEN,BLACK RIVER,No address listed. Look it up by surroundings. 
+-78.55178851,34.30040344,LAKE WACCAMAW,Public boat access,OPEN,LAKE WACCAMAW,No address listed. Look it up by surroundings. 
+-78.87902485,34.48059202,LENNONS BRIDGE,Public boat access,OPEN,BIG SWAMP,No address listed. Look it up by surroundings. 
+-79.0564043,34.62426646,MCNEILS BRIDGE,Public boat access,OPEN,LUMBER RIVER,No address listed. Look it up by surroundings. 
+-78.0595595,33.92821817,OAK ISLAND,Public boat access,OPEN,INTRACOASTAL WATERWAY,No address listed. Look it up by surroundings. 
+-78.63167233,34.01446469,PIREWAY,Public boat access,OPEN,WACCAMAW RIVER,No address listed. Look it up by surroundings. 
+-78.06869797,34.14668433,RICES CREEK,Public boat access,OPEN,RICE CREEK,No address listed. Look it up by surroundings. 
+-78.40833772,34.76079629,SLOANS BRIDGE,Public boat access,OPEN,SOUTH RIVER,No address listed. Look it up by surroundings. 
+-78.2129865,33.92283579,SUNSET HARBOR,Public boat access,OPEN,INTRACOASTAL WATERWAY,No address listed. Look it up by surroundings. 
+-78.7857624,34.74525494,TAR HEEL,Public boat access,OPEN,CAPE FEAR RIVER,No address listed. Look it up by surroundings. 
+-78.60378906,34.63258014,TORY HOLE,Public boat access,OPEN,CAPE FEAR RIVER,No address listed. Look it up by surroundings. 
+-78.43938391,33.89490971,OCEAN ISLE BEACH,Public boat access,OPEN,INTRACOASTAL WATERWAY,No address listed. Look it up by surroundings. 
+-77.5484686,35.92832917,BELLS BRIDGE,Public boat access,OPEN,TAR RIVER,No address listed. Look it up by surroundings. 
+-77.88108227,36.52058902,HENRICO,Public boat access,OPEN,LAKE GASTON,No address listed. Look it up by surroundings. 
+-77.77790796,36.50022854,VULTARE,Public boat access,OPEN,ROANOKE RAPIDS LAKE,No address listed. Look it up by surroundings. 
+-77.6781606,36.47356957,FIFTH STREET LANDING,Public boat access,OPEN,ROANOKE RAPIDS LAKE,No address listed. Look it up by surroundings. 
+-77.65488505,35.94032261,DUNBAR BRIDGE,Public boat access,OPEN,TAR RIVER,No address listed. Look it up by surroundings. 
+-77.16684267,35.23864655,COW PEN LANDING,Public boat access,OPEN,NEUSE RIVER,No address listed. Look it up by surroundings. 
+-78.34275523,36.43852534,FLEMINGTOWN LANDING,Public boat access,OPEN,KERR LAKE,No address listed. Look it up by surroundings. 
+-78.34319775,36.53312414,HENDERSON POINT,Public boat access,OPEN,KERR LAKE,No address listed. Look it up by surroundings. 
+-78.37596916,36.50285456,HIBERNIA,Public boat access,OPEN,KERR LAKE,No address listed. Look it up by surroundings. 
+-78.72268759,36.05362714,LEDGE ROCK,Public boat access,OPEN,FALLS LAKE,No address listed. Look it up by surroundings. 
+-78.65504537,35.97430397,UPPER BARTONS CREEK,Public boat access,OPEN,FALLS LAKE,No address listed. Look it up by surroundings. 
+-78.31409292,36.52236696,COUNTY LINE,Public boat access,OPEN,KERR LAKE,No address listed. Look it up by surroundings. 
+-78.8238676,36.09304998,ENO RIVER,Public boat access,OPEN,FALLS LAKE,No address listed. Look it up by surroundings. 
+-79.0180434,35.79895255,FARRINGTON POINT,Public boat access,OPEN,LAKE JORDAN,No address listed. Look it up by surroundings. 
+-79.75027857,36.47530448,LEAKSVILLE,Public boat access,OPEN,DAN RIVER,No address listed. Look it up by surroundings. 
+-79.21493874,36.54074999,MILTON,Public boat access,OPEN,DAN RIVER,No address listed. Look it up by surroundings. 
+-78.87718069,36.48027687,TRIPLE SPRINGS,Public boat access,OPEN,MAYO RESERVOIR,No address listed. Look it up by surroundings. 
+-80.05334671,36.30001185,PINE HALL,Public boat access,OPEN,BELEWS LAKE,No address listed. Look it up by surroundings. 
+-80.06401546,36.24118188,PINEY BLUFF,Public boat access,OPEN,BELEWS LAKE,No address listed. Look it up by surroundings. 
+-76.77143107,36.35935565,GATESVILLE,Public boat access,OPEN,CHOWAN RIVER,No address listed. Look it up by surroundings. 
+-76.79233808,36.31373468,HARRELLSVILLE,Public boat access,OPEN,WICCACON RIVER,No address listed. Look it up by surroundings. 
+-77.08315062,36.44953594,MURFREESBORO,Public boat access,OPEN,MEHERRIN RIVER,No address listed. Look it up by surroundings. 
+-76.92828309,36.40111564,SHOUPS LANDING,Public boat access,OPEN,CHOWAN RIVER,No address listed. Look it up by surroundings. 
+-76.88762092,36.38038572,TUNIS,Public boat access,OPEN,CHOWAN RIVER,No address listed. Look it up by surroundings. 
+-77.54899095,35.79028054,OLD SPARTA,Public boat access,OPEN,TAR RIVER,No address listed. Look it up by surroundings. 
+-76.94027562,35.98425733,WINDSOR,Public boat access,OPEN,CASHIE RIVER,No address listed. Look it up by surroundings. 
+-76.75309281,35.86671616,PLYMOUTH WATER STREET,Public boat access,OPEN,ROANOKE RIVER,No address listed. Look it up by surroundings. 
+-77.04111368,35.86002408,WILLIAMSTON,Public boat access,OPEN,ROANOKE RIVER,No address listed. Look it up by surroundings. 
+-80.30861641,35.60881357,DUTCH SECOND,Public boat access,OPEN,HIGH ROCK LAKE,No address listed. Look it up by surroundings. 
+-80.21202484,35.54967066,FLAT CREEK,Public boat access,OPEN,TUCKERTOWN LAKE,No address listed. Look it up by surroundings. 
+-80.06216545,35.23116313,LILLYS BRIDGE,Public boat access,OPEN,LAKE TILLERY,No address listed. Look it up by surroundings. 
+-80.11486513,35.24631894,NORWOOD,Public boat access,OPEN,LAKE TILLERY,No address listed. Look it up by surroundings. 
+-79.89111707,34.98779851,PEE DEE,Public boat access,OPEN,BLEWETT FALLS LAKE,No address listed. Look it up by surroundings. 
+-79.99864014,35.08460139,RED HILL,Public boat access,OPEN,PEE DEE RIVER,No address listed. Look it up by surroundings. 
+-79.86907431,34.94566756,ROCKINGHAM,Public boat access,OPEN,PEE DEE RIVER,No address listed. Look it up by surroundings. 
+-80.09611623,35.29267478,STONY MOUNTAIN,Public boat access,OPEN,LAKE TILLERY,No address listed. Look it up by surroundings. 
+-80.07418698,35.30578342,SWIFT ISLAND,Public boat access,OPEN,LAKE TILLERY,No address listed. Look it up by surroundings. 
+-79.88502427,35.29596783,TROY,Public boat access,OPEN,LITTLE RIVER,No address listed. Look it up by surroundings. 
+-82.23070912,35.33697514,LAKE ADGER,Public boat access,OPEN,LAKE ADGER,No address listed. Look it up by surroundings. 
+-76.32741256,35.40222287,SWAN QUARTER,Public boat access,OPEN,PAMLICO SOUND,No address listed. Look it up by surroundings. 
+-76.90242883,35.8219642,ASTORIA LANDING,Public boat access,OPEN,ROANOKE RIVER,No address listed. Look it up by surroundings. 
+-83.81906108,35.45099222,LEWELLYN BRANCH,Public boat access,OPEN,CHEOAH LAKE,No address listed. Look it up by surroundings. 
+-76.17000031,36.52985996,SHINGLE LANDING,Public boat access,OPEN,NORTHWEST RIVER,No address listed. Look it up by surroundings. 
+-76.17490035,35.45701385,LAKE MATTAMUSKEET,Public boat access,OPEN,LAKE MATTAMUSKEET,No address listed. Look it up by surroundings. 
+-76.6631761,34.72551296,WEST BEAUFORT,Public boat access,OPEN,NEWPORT RIVER,No address listed. Look it up by surroundings. 
+-78.64780701,35.22817653,RHODES POND,Public boat access,OPEN,RHODES POND,No address listed. Look it up by surroundings. 
+-75.77152257,35.91029352,MANNS HARBOR,Public boat access,OPEN,CROATAN SOUND,No address listed. Look it up by surroundings. 
+-77.38230305,34.56438721,SNEADS FERRY,Public boat access,OPEN,NEW RIVER,No address listed. Look it up by surroundings. 
+-77.60603363,34.40632517,HAMPSTEAD,Public boat access,OPEN,INTRACOASTAL WATERWAY,No address listed. Look it up by surroundings. 
+-77.85700013,34.15600841,TRAILS END,Public boat access,OPEN,INTRACOASTAL WATERWAY,No address listed. Look it up by surroundings. 
+-77.00573073,34.67143452,EMERALD ISLE,Public boat access,OPEN,INTRACOASTAL WATERWAY,No address listed. Look it up by surroundings. 
+-80.84740851,36.24174519,CRATER PARK,Public boat access,OPEN,YADKIN RIVER,No address listed. Look it up by surroundings. 
+-83.24683553,35.36368769,C J HARRIS,Public boat access,OPEN,TUCKASEGEE RIVER,No address listed. Look it up by surroundings. 
+-76.9628092,35.40742497,BLOUNTS CREEK,Public boat access,OPEN,BLOUNTS CREEK,No address listed. Look it up by surroundings. 
+-77.95032057,34.22749929,DRAM TREE PARK,Public boat access,OPEN,CAPE FEAR RIVER,No address listed. Look it up by surroundings. 
+-79.0260743,36.51605487,HYCO AFTERBAY,Public boat access,OPEN,HYCO LAKE,No address listed. Look it up by surroundings. 
+-77.03930437,35.53668701,HAVENS GARDEN,Public boat access,OPEN,PAMLICO RIVER,No address listed. Look it up by surroundings. 
+-77.59118369,35.4258266,HOOKERTON,Public boat access,OPEN,CONTENTNEA CREEK,No address listed. Look it up by surroundings. 
+-82.54175738,35.42196783,WESTFELDT PARK,Public boat access,OPEN,FRENCH BROAD RIVER,No address listed. Look it up by surroundings. 
+-78.51105803,33.88232514,SUNSET BEACH,Public boat access,OPEN,INTRACOASTAL WATERWAY,No address listed. Look it up by surroundings. 
+-78.3937525,33.90518458,BRICKLANDING ROAD,Public boat access,OPEN,INTRACOASTAL WATERWAY,No address listed. Look it up by surroundings. 
+-77.30281733,35.31366012,MAPLE CYPRESS,Public boat access,OPEN,NEUSE RIVER,No address listed. Look it up by surroundings. 
+-77.43544301,34.75231287,JACKSONVILLE LANDING,Public boat access,OPEN,NEW RIVER,No address listed. Look it up by surroundings. 
+-77.59059628,35.25754193,KINSTON,Public boat access,OPEN,NEUSE RIVER,No address listed. Look it up by surroundings. 
+-82.63620124,35.2695192,PENROSE,Public boat access,OPEN,FRENCH BROAD RIVER,No address listed. Look it up by surroundings. 
+-83.36021175,35.4328296,WHITTIER,Public boat access,OPEN,TUCKASEGEE RIVER,No address listed. Look it up by surroundings. 
+-79.87911643,34.86539283,DIGGS,Public boat access,OPEN,PEE DEE RIVER,No address listed. Look it up by surroundings. 
+-78.96061132,34.44293483,BOARDMAN,Public boat access,OPEN,LUMBER RIVER,No address listed. Look it up by surroundings. 
+-83.29471806,35.38902721,BARKERS CREEK,Public boat access,OPEN,TUCKASEGEE RIVER,No address listed. Look it up by surroundings. 
+-83.37846533,35.1897393,LAKE EMORY,Public boat access,OPEN,LITTLE TENNESSEE RIVER,No address listed. Look it up by surroundings. 
+-77.2500258,36.09756416,LEWISTON WOODVILLE,Public boat access,OPEN,ROANOKE RIVER,No address listed. Look it up by surroundings. 
+-76.59174775,35.41442372,WRIGHTS CREEK,Public boat access,OPEN,PUNGO RIVER,No address listed. Look it up by surroundings. 
+-76.6644097,35.18589781,VANDEMERE,Public boat access,OPEN,BAY RIVER,No address listed. Look it up by surroundings. 
+-79.03712218,34.31408462,FAIR BLUFF,Public boat access,OPEN,LUMBER RIVER,No address listed. Look it up by surroundings. 
+-82.57523356,35.32884684,HORSE SHOE,Public boat access,OPEN,FRENCH BROAD RIVER,No address listed. Look it up by surroundings. 
+-77.44060517,36.32523159,ODOM,Public boat access,OPEN,ROANOKE RIVER,No address listed. Look it up by surroundings. 
+-76.45048357,36.17798592,HERTFORD,Public boat access,OPEN,PERQUIMANS RIVER,No address listed. Look it up by surroundings. 
+-82.57072272,35.58942574,CRAVEN STREET BRIDGE,Public boat access,OPEN,FRENCH BROAD RIVER,No address listed. Look it up by surroundings. 
+-78.34801919,35.51472524,SMITHFIELD,Public boat access,OPEN,NEUSE RIVER,No address listed. Look it up by surroundings. 
+-78.29340771,34.40328738,LOCK AND DAM #1,Public boat access,OPEN,CAPE FEAR RIVER,No address listed. Look it up by surroundings. 
+-78.57460345,34.62518279,LOCK AND DAM #2,Public boat access,OPEN,CAPE FEAR RIVER,No address listed. Look it up by surroundings. 
+-78.82380524,34.83403736,WILLIAM O HUSKE LOCK AND DAM,Public boat access,OPEN,CAPE FEAR RIVER,No address listed. Look it up by surroundings. 
+-80.06071861,35.2017898,CLARKS CREEK,Public boat access,OPEN,PEE DEE RIVER,No address listed. Look it up by surroundings. 
+-80.98485165,35.38568613,LUCIA,Public boat access,OPEN,MOUNTAIN ISLAND LAKE,No address listed. Look it up by surroundings. 
+-80.9576697,35.42738482,HIGHWY 73,Public boat access,OPEN,MOUNTAIN ISLAND LAKE,No address listed. Look it up by surroundings. 
+-77.81801401,35.95267169,SUNSET PARK,Public boat access,OPEN,TAR RIVER,No address listed. Look it up by surroundings. 
+-76.90668799,36.50787163,GATLINGTON LANDING,Public boat access,OPEN,CHOWAN RIVER,No address listed. Look it up by surroundings. 
+-80.46122012,35.74686976,CROWTHER,Public boat access,OPEN,SOUTH YADKIN RIVER,No address listed. Look it up by surroundings. 
+-75.47026943,35.59594135,RODANTHE,Public boat access,OPEN,PAMLICO SOUND,No address listed. Look it up by surroundings. 
+-79.77611658,35.80024245,WORTHVILLE ROAD,Public boat access,OPEN,DEEP RIVER,No address listed. Look it up by surroundings. 
+-77.79467545,35.96011019,BATTLE PARK,Public boat access,OPEN,TAR RIVER,No address listed. Look it up by surroundings. 
+-81.81098953,35.72771169,NORTH BEND,Public boat access,OPEN,CATAWBA RIVER,No address listed. Look it up by surroundings. 
+-79.56669713,34.89444483,CRAWFORD LAKE,Public fishing access,OPEN,CRAWFORD LAKE,No address listed. Look it up by surroundings. 
+-79.54389244,34.99481364,KINNEY CAMERON,Public fishing access,OPEN,KINNEY CAMERON LAKE,No address listed. Look it up by surroundings. 
+-77.50061727,35.86586517,NEWBOLD POND,Public fishing access,OPEN,NEWBOLD POND,No address listed. Look it up by surroundings. 
+-77.52797728,35.86998964,ETHERIDGE POND,Public fishing access,OPEN,ETHERIDGE POND,No address listed. Look it up by surroundings. 
+-76.77981581,35.30468104,AURORA,Public fishing access,OPEN,SOUTH CREEK,No address listed. Look it up by surroundings. 
+-77.04889394,35.04938104,BRICES CREEK,Public fishing access,OPEN,BRICES CREEK,No address listed. Look it up by surroundings. 
+-75.63762387,35.89397215,MANTEO,Public fishing access,OPEN,ROANOKE SOUND,No address listed. Look it up by surroundings. 
+-78.41788161,36.4130485,WILLIAMSBORO WAYSIDE,Public fishing access,OPEN,KERR LAKE,No address listed. Look it up by surroundings. 
+-78.39010072,36.4083523,NUTBUSH BRIDGE,Public fishing access,OPEN,KERR LAKE,No address listed. Look it up by surroundings. 
+-77.94678169,36.48701056,SALMONS LANDING,Public fishing access,OPEN,LAKE GASTON,No address listed. Look it up by surroundings. 
+-79.01656425,35.69373131,WEAVER CREEK,Public fishing access,OPEN,JORDAN LAKE,No address listed. Look it up by surroundings. 
+-79.00752981,35.7519005,BELLS CHURCH,Public fishing access,OPEN,JORDAN LAKE,No address listed. Look it up by surroundings. 
+-79.02560024,35.7987761,ROCK QUARRY,Public fishing access,OPEN,JORDAN LAKE,No address listed. Look it up by surroundings. 
+-78.63016251,35.97855013,OLD 98,Public fishing access,OPEN,FALLS LAKE,No address listed. Look it up by surroundings. 
+-79.34444159,36.35744383,RABBIT SHUFFLE,Public fishing access,OPEN,RABBIT SHUFFLE POND,No address listed. Look it up by surroundings. 
+-79.62729079,35.00889979,MCKINNEY LAKE FISH HATCHERY,Public fishing access,OPEN,MCKINNEY LAKE,No address listed. Look it up by surroundings. 
+-76.92972054,36.40118833,SHOUPS LANDING,Public fishing access,OPEN,CHOWAN RIVER,No address listed. Look it up by surroundings. 
+-80.13759109,35.46981669,OLD WHITNEY,Public fishing access,OPEN,BADIN LAKE,No address listed. Look it up by surroundings. 
+-80.22035833,35.54472551,FLAT CREEK,Public fishing access,OPEN,TUCKERTOWN LAKE,No address listed. Look it up by surroundings. 
+-79.57481426,35.01134861,INDIAN CAMP,Public fishing access,OPEN,INDIAN CAMP LAKE,No address listed. Look it up by surroundings. 
+-79.03998382,35.03291272,LAKE RIM,Public fishing access,OPEN,LAKE RIM,No address listed. Look it up by surroundings. 
+-77.99413958,34.30150014,SUTTON LAKE,Public fishing access,OPEN,SUTTON LAKE,No address listed. Look it up by surroundings. 
+-77.818755,34.54627108,HOLLY SHELTER,Public fishing access,OPEN,NORTHEAST CAPE FEAR RIVER,No address listed. Look it up by surroundings. 
+-81.83475852,35.73996196,BRIDGEWATER,Public fishing access,OPEN,LAKE JAMES TAILRACE,No address listed. Look it up by surroundings. 
+-81.68442532,35.67678215,BROUGHTON POND,Public fishing access,OPEN,BROUGHTON POND,No address listed. Look it up by surroundings. 
+-81.31001451,35.80338655,WITTENBURG,Public fishing access,OPEN,LAKE HICKORY,No address listed. Look it up by surroundings. 
+-81.03017014,35.18503885,ALLEN,Public fishing access,OPEN,LAKE WYLIE,No address listed. Look it up by surroundings. 
+-80.95741636,35.59322577,MARSHALL STEAM PLANT,Public fishing access,OPEN,LAKE NORMAN,No address listed. Look it up by surroundings. 
+-82.5686124,35.56732497,AMBOY RIVERFRONT PARK,Public fishing access,OPEN,FRENCH BROAD RIVER,No address listed. Look it up by surroundings. 
+-82.62320664,35.2991621,BLANTYRE,Public fishing access,OPEN,FRENCH BROAD RIVER,No address listed. Look it up by surroundings. 
+-82.93483641,35.3988103,COLD MOUNTAIN,Public fishing access,OPEN,WEST FORK PIGEON RIVER,No address listed. Look it up by surroundings. 
+-82.76324114,35.28948389,COONTREE,Public fishing access,OPEN,DAVIDSON RIVER,No address listed. Look it up by surroundings. 
+-82.26125003,35.30994185,BIG ROCK,Public fishing access,OPEN,GREEN RIVER,No address listed. Look it up by surroundings. 
+-84.0913003,35.09629335,HANGING DOG,Public fishing access,OPEN,HIWASSEE LAKE,No address listed. Look it up by surroundings. 
+-83.46014532,35.42177233,TUCKASEGEE,Public fishing access,OPEN,TUCKASEGEE RIVER,No address listed. Look it up by surroundings. 
+-83.76552156,35.00541986,JACKRABBIT,Public fishing access,OPEN,CHATUGE LAKE,No address listed. Look it up by surroundings. 
+-82.53728468,35.47990297,LAKE JULIAN,Public fishing access,OPEN,LAKE JULIAN,No address listed. Look it up by surroundings. 
+-82.62428553,35.48303112,LAKE POWHATAN,Public fishing access,OPEN,LAKE POWHATAN,No address listed. Look it up by surroundings. 
+-82.16880525,35.29416923,LAUGHTER POND,Public fishing access,OPEN,LAUGHTER POND,No address listed. Look it up by surroundings. 
+-83.76564713,35.02698499,LEDFORDS CHAPEL,Public fishing access,OPEN,CHATUGE LAKE,No address listed. Look it up by surroundings. 
+-82.96030858,35.80045445,MAX PATCH,Public fishing access,OPEN,MAX PATCH POND,No address listed. Look it up by surroundings. 
+-82.87328415,35.91999227,MURRAY BRANCH,Public fishing access,OPEN,FRENCH BROAD RIVER,No address listed. Look it up by surroundings. 
+-83.47954378,35.43007775,DAVID MONTEITH PARK,Public fishing access,OPEN,TUCKASEGEE RIVER,No address listed. Look it up by surroundings. 
+-83.65538199,35.27810284,QUEENS CREEK,Public fishing access,OPEN,QUEENS CREEK LAKE,No address listed. Look it up by surroundings. 
+-83.73313877,35.02494876,SHOOTING CREEK,Public fishing access,OPEN,CHATUGE LAKE,No address listed. Look it up by surroundings. 
+-83.57845912,35.40477852,TSALI,Public fishing access,OPEN,FONTANA LAKE,No address listed. Look it up by surroundings. 
+-82.97813264,35.50294427,VANCE STREET PARK,Public fishing access,OPEN,RICHLAND CREEK,No address listed. Look it up by surroundings. 
+-83.81666301,35.20569203,ANDREWS,Public fishing access,OPEN,VALLEY RIVER,No address listed. Look it up by surroundings. 
+-83.81912091,35.45094342,LEWELLYN BRANCH,Public fishing access,OPEN,CHEOAH LAKE,No address listed. Look it up by surroundings. 
+-79.10490277,35.92164602,ANDERSON COMMUNITY PARK,Public fishing access,OPEN,FROG POND,No address listed. Look it up by surroundings. 
+-78.81797192,35.7498715,APEX COMMUNITY PARK,Public fishing access,OPEN,PINE LAKE,No address listed. Look it up by surroundings. 
+-78.80623964,35.64219975,BASS LAKE PARK,Public fishing access,OPEN,BASS LAKE PARK,No address listed. Look it up by surroundings. 
+-78.82613091,35.78158895,FRED G BOND METRO PARK,Public fishing access,OPEN,BOND PARK POND,No address listed. Look it up by surroundings. 
+-79.83822776,36.16822395,LAKE BRANDT PARK,Public fishing access,OPEN,LAKE BRANDT,No address listed. Look it up by surroundings. 
+-79.86696862,36.17043717,BUR-MILL PARK,Public fishing access,OPEN,BUR-MILL PONDS & LAKE BRANDT,No address listed. Look it up by surroundings. 
+-79.40716957,36.19240871,LAKE CAMMACK,Public fishing access,OPEN,LAKE CAMMACK,No address listed. Look it up by surroundings. 
+-79.44372867,35.99291353,CEDAROCK PARK,Public fishing access,OPEN,CEDAROCK PARK POND,No address listed. Look it up by surroundings. 
+-78.79070961,35.83841018,LAKE CRABTREE COUNTY PARK,Public fishing access,OPEN,LAKE CRABREE COUNTY PARK,No address listed. Look it up by surroundings. 
+-79.32196785,36.11451606,GRAHAM-MEBANE LAKE,Public fishing access,OPEN,GRAHAM-MEBANE LAKE,No address listed. Look it up by surroundings. 
+-79.73419177,35.95096325,HAGAN-STONE PARK,Public fishing access,OPEN,HAGAN-STONE LAKE,No address listed. Look it up by surroundings. 
+-78.92663963,35.61910893,HARRIS LAKE PARK,Public fishing access,OPEN,HARRIS LAKE & HARRIS PARK POND,No address listed. Look it up by surroundings. 
+-79.88586777,36.16815416,LAKE HIGGINS PARK,Public fishing access,OPEN,LAKE HIGGINS & TURNER HATCHERY POND,No address listed. Look it up by surroundings. 
+-79.95066163,35.99582231,HIGH POINT CITY LAKE PARK,Public fishing access,OPEN,HIGH POINT CITY LAKE,No address listed. Look it up by surroundings. 
+-78.71370544,35.76272474,LAKE JOHNSON PARK,Public fishing access,OPEN,LAKE JOHNSON,No address listed. Look it up by surroundings. 
+-78.61860859,36.30143021,LAKE DEVIN,Public fishing access,OPEN,LAKE DEVIN,No address listed. Look it up by surroundings. 
+-79.56781117,36.04966226,GUILFORD MACKINTOSH PARK,Public fishing access,OPEN,LAKE MACKINTOSH,No address listed. Look it up by surroundings. 
+-79.52551855,36.03619908,LAKE MACKINTOSH PARK,Public fishing access,OPEN,LAKE MACKINTOSH,No address listed. Look it up by surroundings. 
+-78.87653949,36.47895266,MAYO PARK,Public fishing access,OPEN,MAYO LAKE,No address listed. Look it up by surroundings. 
+-79.24948794,36.10677552,LAKE MICHAEL PARK,Public fishing access,OPEN,LAKE MICHAEL,No address listed. Look it up by surroundings. 
+-77.595555,35.26193208,NEUSEWAY NATURE PARK,Public fishing access,OPEN,NEUSEWAY NATURE PARK PONDS,No address listed. Look it up by surroundings. 
+-80.00488356,36.01280964,OAK HOLLOW LAKE,Public fishing access,OPEN,OAK HOLLOW LAKE,No address listed. Look it up by surroundings. 
+-79.85844815,36.01840253,OKA T HESTER PARK,Public fishing access,OPEN,HESTER PARK POND,No address listed. Look it up by surroundings. 
+-77.36074163,35.62715521,RIVER PARK NORTH,Public fishing access,OPEN,RIVER PARK NORTH PONDS,No address listed. Look it up by surroundings. 
+-79.12536736,35.48206494,SAN-LEE PARK,Public fishing access,OPEN,SAN-LEE PARK PONDS,No address listed. Look it up by surroundings. 
+-78.66346186,35.85856492,SHELLEY LAKE,Public fishing access,OPEN,SHELLEY LAKE,No address listed. Look it up by surroundings. 
+-78.69565831,35.6971508,LAKE WHEELER PARK,Public fishing access,OPEN,SIMPKINS POND / LAKE WHEELER,No address listed. Look it up by surroundings. 
+-79.40608193,36.12697098,STONEY CREEK LAKE,Public fishing access,CLOSED TEMPORARILY,STONEY CREEK LAKE,No address listed. Look it up by surroundings. 
+-79.90962687,36.1987818,SUMMERFIELD COMMUNITY PARK,Public fishing access,OPEN,SCHOOLHOUSE LAKE,No address listed. Look it up by surroundings. 
+-77.90526322,35.74811875,TOISNOT PARK,Public fishing access,OPEN,LAKE TOISNOT,No address listed. Look it up by surroundings. 
+-79.73226571,36.18738613,LAKE TOWNSEND,Public fishing access,OPEN,LAKE TOWNSEND,No address listed. Look it up by surroundings. 
+-78.58195321,36.19289789,WILTON SLOPES,Public fishing access,OPEN,TAR RIVER,No address listed. Look it up by surroundings. 
+-81.61975279,35.78967504,HUFFMAN BRIDGE,Public fishing access,OPEN,LAKE RHODHISS,No address listed. Look it up by surroundings. 
+-81.48374284,35.78391561,CONLEY CREEK,Public fishing access,OPEN,LAKE RHODHISS,No address listed. Look it up by surroundings. 
+-82.17912811,35.65529515,CURTIS CREEK,Public fishing access,OPEN,CURTIS CREEK,No address listed. Look it up by surroundings. 
+-81.62945758,35.60198437,JACOB FORK,Public fishing access,OPEN,JACOB FORK CREEK,No address listed. Look it up by surroundings. 
+-82.96982868,35.27240454,BALSAM LAKE,Public fishing access,OPEN,BALSAM LAKE,No address listed. Look it up by surroundings. 
+-84.16437255,35.06519265,CHEROKEE LAKE,Public fishing access,OPEN,CHEROKEE LAKE,No address listed. Look it up by surroundings. 
+-83.18270474,35.29108408,CULLOWHEE CREEK,Public fishing access,OPEN,CULLOWHEE CREEK,No address listed. Look it up by surroundings. 
+-81.32416579,36.42310557,TROUT LAKE,Public fishing access,OPEN,TROUT LAKE,No address listed. Look it up by surroundings. 
+-78.65404351,35.97046971,UPPER BARTON CREEK,Public fishing access,OPEN,FALLS LAKE,No address listed. Look it up by surroundings. 
+-82.84179352,35.52491811,CANTON PARK,Public fishing access,OPEN,PIGEON RIVER,No address listed. Look it up by surroundings. 
+-80.08032347,35.45435108,KINGS MOUNTAIN POINT PIER,Public fishing access,OPEN,BADIN LAKE,No address listed. Look it up by surroundings. 
+-79.75007923,34.93901042,HINSON LAKE,Public fishing access,OPEN,HINSON LAKE,No address listed. Look it up by surroundings. 
+-80.07072704,35.46559643,HOLTS CABIN,Public fishing access,NON-NCWRC,BADIN LAKE,No address listed. Look it up by surroundings. 
+-81.29172352,35.21012563,CROWDERS MOUNTAIN STATE PARK,Public fishing access,OPEN,CROWDERS MOUNTAIN LAKE,No address listed. Look it up by surroundings. 
+-82.61271672,35.2086212,LAKE IMAGING,Public fishing access,OPEN,LAKE IMAGING,No address listed. Look it up by surroundings. 
+-81.47126224,36.43633696,ASHE PARK POND,Public fishing access,OPEN,ASHE PARK POND,No address listed. Look it up by surroundings. 
+-80.62676352,36.52113958,TUMBLING ROCK RESERVOIR,Public fishing access,OPEN,TUMBLING ROCK RESERVOIR,No address listed. Look it up by surroundings. 
+-77.5664656,35.91987967,INDIAN LAKE PARK,Public fishing access,OPEN,INDIAN LAKE,No address listed. Look it up by surroundings. 
+-79.21931847,36.43339913,HIGH ROCK,Public fishing access,OPEN,HIGH ROCK GAME LAND POND,No address listed. Look it up by surroundings. 
+-78.67750469,35.76681415,LAKE RALEIGH,Public fishing access,OPEN,LAKE RALEIGH,No address listed. Look it up by surroundings. 
+-77.21861937,35.00966469,POLLOCKSVILLE,Public fishing access,OPEN,TRENT RIVER,No address listed. Look it up by surroundings. 
+-79.20640762,35.03546888,UPCHURCH LAKE,Public fishing access,OPEN,UPCHURCH LAKE,No address listed. Look it up by surroundings. 
+-79.56938275,35.05634676,CRAPPIE LAKE,Public fishing access,OPEN,CRAPPIE LAKE,No address listed. Look it up by surroundings. 
+-80.20167143,36.1162887,WINSTON PARK POND,Public fishing access,OPEN,WINSTON POND,No address listed. Look it up by surroundings. 
+-80.37610015,36.1691892,C G HILL MEMORIAL PARK,Public fishing access,OPEN,C G HILL POND,No address listed. Look it up by surroundings. 
+-79.7428863,35.06989591,ELLERBE LIONS CLUB,Public fishing access,OPEN,LIONS CLUB POND,No address listed. Look it up by surroundings. 
+-80.23113045,35.35447774,ALBEMARLE CITY LAKE,Public fishing access,OPEN,LONG LAKE,No address listed. Look it up by surroundings. 
+-80.85696032,36.24565581,BIG ELKIN CREEK,Public fishing access,OPEN,BIG ELKIN CREEK,No address listed. Look it up by surroundings. 
+-80.62102232,35.36420955,FRANK LISKE PARK,Public fishing access,OPEN,FRANK LISKE POND,No address listed. Look it up by surroundings. 
+-79.87856792,35.73563777,LAKE LUCAS,Public fishing access,OPEN,LAKE LUCAS,No address listed. Look it up by surroundings. 
+-83.24453006,35.37188468,DILLSBORO,Public fishing access,OPEN,SCOTT CREEK,No address listed. Look it up by surroundings. 
+-80.54899937,35.69709739,SALISBURY COMMUNITY LAKE,Public fishing access,OPEN,SALISBURY PARK POND,No address listed. Look it up by surroundings. 
+-80.84477243,35.19112614,FREEDOM PARK,Public fishing access,OPEN,DUCK POND,No address listed. Look it up by surroundings. 
+-80.9318409,35.3505165,LATTA PLANTATION NATURE PRESERVE,Public fishing access,NON-NCWRC,LATTA PARK POND,No address listed. Look it up by surroundings. 
+-80.86933552,35.31972302,HORNETS NEST PARK,Public fishing access,OPEN,HORNETS NEST POND,No address listed. Look it up by surroundings. 
+-80.74100616,35.15056047,MCALPINE CREEK PARK,Public fishing access,OPEN,MCALPINE LAKE,No address listed. Look it up by surroundings. 
+-80.68548286,34.84287255,CANE CREEK PARK,Public fishing access,NON-NCWRC,CANE CREEK LAKE,No address listed. Look it up by surroundings. 
+-82.68818995,35.79625191,TOWN OF MARSHALL,Public fishing access,OPEN,FRENCH BROAD RIVER,No address listed. Look it up by surroundings. 
+-80.09977782,36.15393235,KERNERSVILLE LAKE,Public fishing access,OPEN,KERNERSVILLE LAKE,No address listed. Look it up by surroundings. 
+-80.7221924,35.09979856,SQUIRREL LAKE PARK,Public fishing access,OPEN,SQUIRREL LAKE,No address listed. Look it up by surroundings. 
+-81.02378599,35.09434138,MCDOWELL NATURE PRESERVE,Public fishing access,NON-NCWRC,LAKE WYLIE,No address listed. Look it up by surroundings. 
+-79.69263156,34.88444283,HAMLET CITY PARK,Public fishing access,OPEN,HAMLET CITY LAKE,No address listed. Look it up by surroundings. 
+-79.41445008,35.33523524,LAKE LUKE MARION PARK,Public fishing access,OPEN,LUKE MARION POND,No address listed. Look it up by surroundings. 
+-81.27830325,35.93279544,ELLENDALE POND,Public fishing access,OPEN,ELLENDALE POND,No address listed. Look it up by surroundings. 
+-76.68351137,36.05383862,EDENHOUSE BRIDGE,Public fishing access,OPEN,CHOWAN RIVER,No address listed. Look it up by surroundings. 
+-77.20250432,35.94762644,HAMILTON,Public fishing access,OPEN,ROANOKE RIVER,No address listed. Look it up by surroundings. 
+-80.1268246,36.36916592,HEMLOCK GOLF COURSE,Public fishing access,OPEN,DAN RIVER,No address listed. Look it up by surroundings. 
+-82.32912818,35.62013085,LAKE TOMAHAWK PARK,Public fishing access,OPEN,LAKE TOMAHAWK,No address listed. Look it up by surroundings. 
+-80.49323378,35.46241547,CAMP TN SPENCER PARK,Public fishing access,OPEN,CAMP TIN SPENCER PARK PONDS,No address listed. Look it up by surroundings. 
+-82.18054572,35.62748689,MOUNTAIN GATEWAY MUSEUM,Public fishing access,OPEN,MILL CREEK,No address listed. Look it up by surroundings. 
+-82.15668018,36.01360357,BAKERSVILLE GREENWAY,Public fishing access,OPEN,CANE CREEK,No address listed. Look it up by surroundings. 
+-83.06756813,35.51410226,MAGGIE VALLEY PARHAM MEMORIAL PARK,Public fishing access,OPEN,JONATHAN CREEK,No address listed. Look it up by surroundings. 
+-82.06755326,35.91401941,SPRUCE PINE RIVERSIDE PARK,Public fishing access,OPEN,NORTH TOE RIVER,No address listed. Look it up by surroundings. 
+-79.83628976,36.12636235,COUNTRY PARK,Public fishing access,OPEN,LAKE LINDLEY,No address listed. Look it up by surroundings. 
+-80.04078774,35.07666664,ARROWHEAD LAKE,Public fishing access,NON-NCWRC,ARROWHEAD LAKE,No address listed. Look it up by surroundings. 
+-80.08551236,35.06164117,SULLIVAN POND,Public fishing access,NON-NCWRC,SULLIVAN POND,No address listed. Look it up by surroundings. 
+-81.55811398,35.99004863,HAPPY VALLEY GREENWAY,Public fishing access,OPEN,YADKIN RIVER,No address listed. Look it up by surroundings. 
+-76.90180507,35.82153611,ASTORIA LANDING,Public fishing access,OPEN,ROANOKE RIVER,No address listed. Look it up by surroundings. 
+-77.49331548,35.9066637,SHILOH MILLS,Public fishing access,OPEN,TAR RIVER,No address listed. Look it up by surroundings. 
+-79.62113237,35.04233249,BAGGETTS LAKE,Public fishing access,OPEN,SANDHILLS GL POND,No address listed. Look it up by surroundings. 
+-79.54494794,35.01624278,BROADACRES LAKE,Public fishing access,OPEN,BROADACRES LAKE,No address listed. Look it up by surroundings. 
+-79.51713064,34.99945338,SCOTLAND LAKE,Public fishing access,OPEN,SANDHILLS GL POND,No address listed. Look it up by surroundings. 
+-80.46291182,35.68041006,SALISBURY CITY PARK,Public fishing access,NON-NCWRC,CITY PARK POND,No address listed. Look it up by surroundings. 
+-82.43044067,35.60919582,CHARLES OWEN PARK,Public fishing access,OPEN,SWANNANOA RIVER,No address listed. Look it up by surroundings. 
+-80.71614672,35.26538493,REEDY CREEK PARK,Public fishing access,NON-NCWRC,DRAGONFLY & KINGFISHER PONDS,No address listed. Look it up by surroundings. 
+-78.6326274,35.67275102,LAKE BENSON BOATHOUSE,Public fishing access,NON-NCWRC,LAKE BENSON,No address listed. Look it up by surroundings. 
+-76.27644736,36.21957205,HALLS CREEK,Public fishing access,OPEN,LITTLE RIVER/HALLS CREEK,No address listed. Look it up by surroundings. 
+-78.648743,35.22743,RHODES POND,Public fishing access,OPEN,RHODES POND,No address listed. Look it up by surroundings. 
+-81.10844679,35.28542512,GEORGE POSTON PARK LAKE,Public fishing access,NON-NCWRC,GEORGE POSTON PARK LAKE,No address listed. Look it up by surroundings. 
+-82.71983591,35.21785077,HAP SIMPSON PARK,Public fishing access,OPEN,FRENCH BROAD RIVER,No address listed. Look it up by surroundings. 
+-81.26280837,36.1259525,SMITHEYS CREEK PARK,Public fishing access,OPEN,W KERR SCOTT RESERVOIR,No address listed. Look it up by surroundings. 
+-80.39093017,36.03211644,VILLAGE POINT LAKE,Public fishing access,OPEN,VILLAGE POINT LAKE,No address listed. Look it up by surroundings. 
+-83.52784984,35.34178235,PAINTER BRANCH,Public fishing access,OPEN,LITTLE TENNESSEE RIVER,No address listed. Look it up by surroundings. 
+-83.52233566,35.30708733,RATTLESNAKE CREEK,Public fishing access,OPEN,LITTLE TENNESSEE RIVER,No address listed. Look it up by surroundings. 
+-83.4914814,35.28886463,TELLICO CREEK,Public fishing access,OPEN,LITTLE TENNESSEE RIVER,No address listed. Look it up by surroundings. 
+-82.64301826,35.4061183,NORTH MILLS RIVER,Public fishing access,OPEN,NORTH FORK MILLS RIVER,No address listed. Look it up by surroundings. 
+-80.00582344,35.48843431,LOW WATER BRIDGE,Public fishing access,OPEN,UWHARRIE RIVER,No address listed. Look it up by surroundings. 
+-78.51158719,33.88220714,SUNSET BEACH,Public fishing access,OPEN,INTRACOASTAL WATERWAY,No address listed. Look it up by surroundings. 
+-77.1084216,34.67761622,CEDAR POINT,Public fishing access,OPEN,INTRACOASTAL WATERWAY,No address listed. Look it up by surroundings. 
+-82.32473517,35.26420725,FISHTOP,Public fishing access,OPEN,GREEN RIVER,No address listed. Look it up by surroundings. 
+-81.87669163,36.20436031,LAKE COFFEY,Public fishing access,OPEN,LAKE COFFEY,No address listed. Look it up by surroundings. 
+-82.02641268,35.32863665,GRAYS BRIDGE,Public fishing access,OPEN,BROAD RIVER,No address listed. Look it up by surroundings. 
+-79.70796961,36.11242649,KEELEY PARK,Public fishing access,NON-NCWRC,KEELEY PARK PONDS,No address listed. Look it up by surroundings. 
+-81.75862138,35.97961862,WILSON CREEK,Public fishing access,OPEN,WILSON CREEK,No address listed. Look it up by surroundings. 
+-82.71140993,35.27462834,SYCAMORE FLATS,Public fishing access,NON-NCWRC,DAVIDSON RIVER,No address listed. Look it up by surroundings. 
+-78.90016271,35.07154531,MAZARICK PARK,Public fishing access,NON-NCWRC,GLENVILLE LAKE,No address listed. Look it up by surroundings. 
+-78.97664855,35.57340867,CROSS POINT LANDING,Public fishing access,OPEN,SHEARON HARRIS RESERVOIR,No address listed. Look it up by surroundings. 
+-77.89713159,34.36380904,CASTLE HAYNE,Public fishing access,OPEN,NORTHEAST CAPE FEAR RIVER,No address listed. Look it up by surroundings. 
+-76.96279673,35.40725354,BLOUNTS CREEK,Public fishing access,OPEN,BLOUNTS CREEK,No address listed. Look it up by surroundings. 
+-82.24933348,35.99350532,WOLF SONG RIDGE,Public fishing access,OPEN,NORTH TOE RIVER,No address listed. Look it up by surroundings. 
+-82.22962471,36.01297344,RED HILL,Public fishing access,OPEN,NORTH TOE RIVER,No address listed. Look it up by surroundings. 
+-83.50631088,35.35623088,SAWMILL CREEK,Public fishing access,OPEN,LITTLE TENNESSEE RIVER,No address listed. Look it up by surroundings. 
+-83.51378364,35.32765936,BRUSH CREEK,Public fishing access,OPEN,LITTLE TENNESSEE RIVER,No address listed. Look it up by surroundings. 
+-81.0665381,36.38553274,EAST PRONG ROARING RIVER - LOWER PIER,Public fishing access,OPEN,EAST PRONG ROARING RIVER,No address listed. Look it up by surroundings. 
+-81.88161531,36.14844016,WILDCAT LAKE,Public fishing access,NON-NCWRC,WILDCAT LAKE,No address listed. Look it up by surroundings. 
+-81.20238837,35.31014891,DALLAS PARK,Public fishing access,OPEN,LONG CREEK,No address listed. Look it up by surroundings. 
+-80.01666071,35.43133018,NC HWY 109,Public fishing access,OPEN,UWHARRIE RIVER,No address listed. Look it up by surroundings. 
+-79.36170798,36.38449752,S R FARMER LAKE,Public fishing access,OPEN,FARMER LAKE,No address listed. Look it up by surroundings. 
+-80.72126709,36.26940638,YADKIN SHORE,Public fishing access,OPEN,YADKIN RIVER,No address listed. Look it up by surroundings. 
+-80.63678783,36.11549494,YADKIN COUNTY PARK,Public fishing access,OPEN,YADKIN COUNTY PARK POND,No address listed. Look it up by surroundings. 
+-78.31426306,36.52310341,COUNTY LINE,Public fishing access,OPEN,KERR LAKE,No address listed. Look it up by surroundings. 
+-78.58369521,35.94036509,FALLS LAKE DAM,Public fishing access,OPEN,FALLS LAKE,No address listed. Look it up by surroundings. 
+-77.59077692,35.42577776,HOOKERTON,Public fishing access,OPEN,CONTENTNEA CREEK,No address listed. Look it up by surroundings. 
+-83.6757489,35.26970914,WISHONS FISHING HOLE,Public fishing access,OPEN,NANTAHALA RIVER,No address listed. Look it up by surroundings. 
+-80.76890758,36.27555562,BURCH STATION,Public fishing access,OPEN,YADKIN RIVER,No address listed. Look it up by surroundings. 
+-80.37052687,36.52573897,JESSUP MILL,Public fishing access,OPEN,DAN RIVER,No address listed. Look it up by surroundings. 
+-78.82275761,36.08780353,RED MILL,Public fishing access,OPEN,ENO RIVER,No address listed. Look it up by surroundings. 
+-81.59453357,36.2461633,PINE RUN,Public fishing access,OPEN,SOUTH FORK NEW RIVER,No address listed. Look it up by surroundings. 
+-80.35205071,35.63668437,DAN NICHOLAS PARK,Public fishing access,NON-NCWRC,LAKE MURTIS,No address listed. Look it up by surroundings. 
+-77.24955896,36.09760312,LEWISTON WOODVILLE,Public fishing access,OPEN,ROANOKE RIVER,No address listed. Look it up by surroundings. 
+-78.37162826,36.31977836,FOX POND PARK,Public fishing access,OPEN,FOX RESERVOIR,No address listed. Look it up by surroundings. 
+-76.94320787,35.99243672,QUEEN STREET WATER ACCESS,Public fishing access,NON-NCWRC,CASHIE RIVER,No address listed. Look it up by surroundings. 
+-83.1757306,35.31482009,LENA DAVIS LANDING,Public fishing access,OPEN,TUCKASEGEE RIVER,No address listed. Look it up by surroundings. 
+-83.65681746,35.18150025,ROCKY BRANCH,Public fishing access,OPEN,NANTAHALA LAKE,No address listed. Look it up by surroundings. 
+-83.06399572,35.24328881,BEAR CREEK,Public fishing access,OPEN,BEAR CREEK LAKE,No address listed. Look it up by surroundings. 
+-83.14997561,35.19517015,POWERHOUSE,Public fishing access,OPEN,GLENVILLE LAKE/THORPE LAKE,No address listed. Look it up by surroundings. 
+-83.3777845,35.18925443,LAKE EMORY,Public fishing access,OPEN,LITTLE TENNESSEE RIVER,No address listed. Look it up by surroundings. 
+-83.37525005,35.44621818,BRYSON TRAILRACE,Public fishing access,OPEN,NANTAHALA RIVER,No address listed. Look it up by surroundings. 
+-83.92651397,35.06649221,MISSION TRAILRACE,Public fishing access,OPEN,HIWASSEE RIVER,No address listed. Look it up by surroundings. 
+-81.9914122,35.29261036,COXE ROAD,Public fishing access,OPEN,BROAD RIVER,No address listed. Look it up by surroundings. 
+-82.11314566,35.92929264,PENLAND,Public fishing access,OPEN,NORTH TOE RIVER,No address listed. Look it up by surroundings. 
+-82.98780083,35.21617206,TANASEE,Public fishing access,OPEN,TANASEE CREEK LAKE,No address listed. Look it up by surroundings. 
+-83.12829488,35.24762768,TUCKASEGEE POWERHOUSE,Public fishing access,OPEN,WEST FORK TUCKASEGEE RIVER,No address listed. Look it up by surroundings. 
+-83.10698749,35.25452077,SHOOK COVE PUT IN,Public fishing access,OPEN,TUCKASEGEE RIVER,No address listed. Look it up by surroundings. 
+-83.10671759,35.25991737,SHOOK COVE TAKE OUT,Public fishing access,OPEN,TUCKASEGEE RIVER,No address listed. Look it up by surroundings. 
+-83.81620688,35.05598494,HAYESVILLE,Public fishing access,OPEN,HIWASSEE RIVER,No address listed. Look it up by surroundings. 
+-80.7078253,34.99980239,DOGWOOD PARK,Public fishing access,NON-NCWRC,DOGWOOD PARK LAKE,No address listed. Look it up by surroundings. 
+-80.68090853,36.33216752,BRAY FORD,Public fishing access,OPEN,FISHER RIVER,No address listed. Look it up by surroundings. 
+-80.04166475,35.38643212,UWARRIE RIVER,Public fishing access,OPEN,UWHARRIE RIVER,No address listed. Look it up by surroundings. 
+-78.2927942,34.40270082,LOCK AND DAM #1,Public fishing access,OPEN,CAPE FEAR RIVER,No address listed. Look it up by surroundings. 
+-78.57500621,34.6253183,LOCK AND DAM #2,Public fishing access,OPEN,CAPE FEAR RIVER,No address listed. Look it up by surroundings. 
+-81.18262601,36.55127706,FARMERS FISH CAMP,Public fishing access,OPEN,NEW RIVER,No address listed. Look it up by surroundings. 
+-80.54281475,36.36691456,268 EAST,Public fishing access,OPEN,ARARAT RIVER,No address listed. Look it up by surroundings. 
+-82.93963899,35.38251672,COLD MOUNTAIN 2,Public fishing access,OPEN,WEST FORK PIGEON RIVER,No address listed. Look it up by surroundings. 
+-82.38240977,35.91502358,CANE RIVER PARK,Public fishing access,OPEN,CANE RIVER,No address listed. Look it up by surroundings. 
+-80.0983751,35.29109846,STONY MOUNTAIN,Public fishing access,OPEN,LAKE TILLERY,No address listed. Look it up by surroundings. 
+-83.97287035,35.066125,US 64 HIGH BRIDGE,Public fishing access,NON-NCWRC,HIWASSEE RIVER,No address listed. Look it up by surroundings. 
+-84.12520921,35.02271062,LITTLE RANGER,Public fishing access,OPEN,NOTTLEY RIVER,No address listed. Look it up by surroundings. 
+-77.55018853,34.42887697,SURF CITY,Public fishing access,NON-NCWRC,INTRACOASTAL WATERWAY,No address listed. Look it up by surroundings. 
+-77.9818467,34.7420019,BONEY MILL POND,Public fishing access,OPEN,BONEY MILL POND,No address listed. Look it up by surroundings. 
+-78.21302583,33.92260455,SUNSET HARBOR,Public fishing access,OPEN,INTRACOASTAL WATERWAY,No address listed. Look it up by surroundings. 
+-83.87133155,35.38359502,BLUE HOLE,Public fishing access,OPEN,CHEOAH RIVER,No address listed. Look it up by surroundings. 
+-79.01507345,35.69570103,BEAVER CREEK,Public fishing access,OPEN,JORDAN LAKE,No address listed. Look it up by surroundings. 
+-77.35525108,35.06045738,BROCKS MILL POND,Public fishing access,OPEN,BROCKS MILL POND,No address listed. Look it up by surroundings. 
+-81.51324884,36.49991225,LANSING PARK,Public fishing access,OPEN,BIG HORSE CREEK,No address listed. Look it up by surroundings. 
+-82.54674112,35.38784099,MILLS RIVER PARK,Public fishing access,OPEN,MILLS RIVER,No address listed. Look it up by surroundings. 
+-76.85320627,34.91739218,HANCOCK CREEK,Public fishing access,OPEN,HANCOCK CREEK,No address listed. Look it up by surroundings. 
+-78.82832805,35.66296057,VETERANS PARK,Public fishing access,OPEN,VETERANS PARK POND,No address listed. Look it up by surroundings. 
+-77.16652558,35.23840727,COW PEN LANDING,Public fishing access,OPEN,NEUSE RIVER,No address listed. Look it up by surroundings. 
+-77.14868584,35.2191208,SPRING GARDEN,Public fishing access,OPEN,NEUSE RIVER,No address listed. Look it up by surroundings. 
+-82.79174119,35.28465096,PISGAH CENTER FOR WILDLIFE EDUCATION,Public fishing access,OPEN,DAVIDSON RIVER,No address listed. Look it up by surroundings. 
+-82.20064043,35.8731687,YANCEY COUNTY TOE RIVER CAMPGROUND,Public fishing access,OPEN,SOUTH TOE RIVER,No address listed. Look it up by surroundings. 
+-80.69118069,36.40985318,OLD HIGHWAY 601,Public fishing access,OPEN,FISHER RIVER,No address listed. Look it up by surroundings. 
+-79.01707555,34.62510177,JAMES L STEVENS MEMORIAL PARK,Public fishing access,OPEN,LUMBER RIVER,No address listed. Look it up by surroundings. 
+-81.41188382,35.80519696,KNOX LANDING,Public fishing access,OPEN,GUNPOWDER CREEK (OLD MILL POND),No address listed. Look it up by surroundings. 
+-80.95230651,35.5624379,HAGER CREEK,Public fishing access,OPEN,LAKE NORMAN,No address listed. Look it up by surroundings. 
+-80.0622129,35.38147694,MORROW MOUNTAIN,Public fishing access,OPEN,TILLERY LAKE,No address listed. Look it up by surroundings. 
+-80.74412528,36.13325509,YADKIN MEMORIAL PARK,Public fishing access,OPEN,LAKE HAMPTON,No address listed. Look it up by surroundings. 
+-81.7115331,35.8325422,CORPENING BRIDGE,Public fishing access,OPEN,JOHNS RIVER,No address listed. Look it up by surroundings. 
+-81.85496079,35.71128741,MUDDY CREEK,Public fishing access,OPEN,CATAWBA RIVER,No address listed. Look it up by surroundings. 
+-79.79725646,36.43361329,DAN RIVER,Public fishing access,OPEN,DAN RIVER,No address listed. Look it up by surroundings. 
+-79.25253197,35.54551224,US HWY 421 LEE COUNTY,Public fishing access,OPEN,DEEP RIVER,No address listed. Look it up by surroundings. 
+-80.14620512,36.40211467,PITZER ROAD,Public fishing access,OPEN,DAN RIVER,No address listed. Look it up by surroundings. 
+-79.193786,35.57781354,US HWY 15/501 LEE COUNTY,Public fishing access,OPEN,DEEP RIVER,No address listed. Look it up by surroundings. 
+-81.41009704,36.51898679,CRUMPLER,Public fishing access,OPEN,NORTH FORK NEW RIVER,No address listed. Look it up by surroundings. 
+-77.79537697,35.96012442,BATTLE PARK 1,Public fishing access,OPEN,TAR RIVER,No address listed. Look it up by surroundings. 
+-81.54644001,35.77408453,VALDESE LAKESIDE PARK,Public fishing access,OPEN,LAKE RHODHISS,No address listed. Look it up by surroundings. 
+-77.79932092,35.96155771,BATTLE PARK 2,Public fishing access,OPEN,TAR RIVER,No address listed. Look it up by surroundings. 
+-77.56553489,34.4411951,SURF CITY COMMUNITY CENTER,Public fishing access,OPEN,SURF CITY COMMUNITY CENTER POND,No address listed. Look it up by surroundings. 
+-82.34856995,36.07953006,POPLAR,Public fishing access,OPEN,NOLICHUCKY RIVER,No address listed. Look it up by surroundings. 
+-81.37513899,35.79337124,GUNPOWDER,Public fishing access,OPEN,LAKE HICKORY,No address listed. Look it up by surroundings. 
+-81.42279232,36.31700235,HARTZOG FORD,Public fishing access,OPEN,SOUTH FORK NEW RIVER,No address listed. Look it up by surroundings. 
+-81.96538453,35.74451314,BLACK BEAR,Public fishing access,OPEN,LAKE JAMES,No address listed. Look it up by surroundings. 
+-78.93980996,35.60823759,HOLLEMANS CROSSING,Public fishing access,OPEN,SHEARON HARRIS RESERVOIR,No address listed. Look it up by surroundings. 
+-83.44372714,35.43003965,BRYSON CITY FISHING PIER,Public fishing access,OPEN,TUCKASEGEE RIVER,No address listed. Look it up by surroundings. 
+-77.66752202,35.45723903,SNOW HILL,Public fishing access,OPEN,CONTENTNEA CREEK,No address listed. Look it up by surroundings. 
+-81.61470139,35.44239554,DELIGHT ROAD,Public fishing access,OPEN,FIRST BROAD RIVER,No address listed. Look it up by surroundings. 
+-81.64391309,35.4480099,NC HWY 10,Public fishing access,OPEN,FIRST BROAD RIVER,No address listed. Look it up by surroundings. 
+-81.40543432,36.31727556,NEW RIVER PARK,Public fishing access,OPEN,SOUTH FORK NEW RIVER,No address listed. Look it up by surroundings. 
+-81.57029081,36.27840656,TODD ISLAND PARK,Public fishing access,OPEN,SOUTH FORK NEW RIVER,No address listed. Look it up by surroundings. 
+-78.92514374,35.62675086,HARRIS LAKE,Public fishing access,OPEN,HARRIS LAKE PARK POND,No address listed. Look it up by surroundings. 
+-77.59121092,36.42977294,WELDON FALLS,Public fishing access,OPEN,ROANOKE RIVER,No address listed. Look it up by surroundings. 
